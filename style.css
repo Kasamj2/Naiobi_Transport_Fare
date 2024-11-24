@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #032c4a; /* Choose your preferred color */
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+}
+
+.container {
+    background: rgba(208, 195, 174, 0.8); /* Optional: Add a light overlay for content */
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+    color: #000;
+}
